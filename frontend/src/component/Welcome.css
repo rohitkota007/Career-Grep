@@ -1,0 +1,11 @@
+body {
+    background-image: url('./img/a.jpg');
+    background-size: cover;
+}
+
+.myclass {
+    width: 350px;
+    background-color: #909090;
+    line-height: 1;
+    color: darkslategray;
+}
